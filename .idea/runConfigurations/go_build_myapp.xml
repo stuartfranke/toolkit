@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="go build myapp" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+    <module name="toolkit-project" />
+    <target name="@@@LOCAL@@@" />
+    <working_directory value="$PROJECT_DIR$/app" />
+    <kind value="PACKAGE" />
+    <package value="myapp" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/app/main.go" />
+    <option name="build_on_remote_target" value="true" />
+    <method v="2" />
+  </configuration>
+</component>

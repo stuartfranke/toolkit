@@ -2,5 +2,10 @@ go 1.19
 
 use (
 	./app
+	./app-dir
+	./app-download
+	./app-json
+	./app-slug
+	./app-upload
 	./toolkit
 )
